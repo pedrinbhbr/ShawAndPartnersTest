@@ -11,6 +11,6 @@ To execute the frontend, open a terminal and go inside the directory. Example: "
 
 ![First Screen](https://github.com/pedrinbhbr/ShawAndPartnersTest/blob/main/Frontend/public/firstscreen.png)
 
-[Search User](../../tree/main/Frontend/public/modalscreen.png)
+![Search User](../../tree/main/Frontend/public/modalscreen.png)
 
-[User Details](../../tree/main/Frontend/public/userdetails.png)
+![User Details](../../tree/main/Frontend/public/userdetails.png)
