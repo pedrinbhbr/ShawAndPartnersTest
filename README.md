@@ -12,6 +12,7 @@ To execute the backend, open a terminal and go inside the directory. Example: "c
 It is important to check and configure which port to use for backend server. Default port is 3001. It cannot be the same as Frontend port.
 
 At '/ShawAndPartnersTest/Backend/server.js' you will need to set a localhost ip or just let 'localhost'. Port can also be changed, but it is by default 3001.
+
 ![Port Backend](https://github.com/pedrinbhbr/ShawAndPartnersTest/blob/main/Frontend/public/portbackend.PNG)
 
 To execute the frontend, open a terminal and go inside the directory. Example: "cd C:\ShawAndPartnersTest\Frontend". After that, type "npm install" to install all dependencies needed. Then execute it with "npm start" and the frontend app should be running. 
@@ -22,6 +23,8 @@ At '/ShawAndPartnersTest/Frontend/package.json' you need to set script 'start' t
 
 At '/Frontend/src/App.js' you need to set the port you want. I'm using backend on localhost and port 3001. 
 ![Frontend call](https://github.com/pedrinbhbr/ShawAndPartnersTest/blob/main/Frontend/public/localhost.PNG)
+
+App usage:
 
 ![First Screen](https://github.com/pedrinbhbr/ShawAndPartnersTest/blob/main/Frontend/public/firstscreen.png)
 
