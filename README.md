@@ -6,7 +6,7 @@ Backend and Frontend code for Shaw and Partners test
 
 # Instalation of dependencies may take a while.
 
-# Ports used are 8000 and 3001 by default, you can change it following steps below. 
+# Ports used are 8000 and 3001 by default, you can change it following steps below. It is not necessary to change it, as long as those ports are available.
 
 To execute the backend, open a terminal and go inside the directory. Example: "cd C:\ShawAndPartnersTest\Backend". After that, type "npm install" to install all dependencies needed. Then execute it with "npm start" and the backend server should be running and showing what port it is using. 
 It is important to check and configure which port to use for backend server. Default port is 3001. It cannot be the same as Frontend port.
